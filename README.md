@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Caesario
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning Swift, SwiftUI, Core Data and Combine
 - 📫 How to reach me: michaelcaesario@live.com or @mikecaesario
 
 <!---
